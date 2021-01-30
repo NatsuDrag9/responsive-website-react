@@ -1,0 +1,23 @@
+import img1 from '../images/img-1.jpeg';
+import img2 from '../images/img-2.jpeg';
+import img3 from '../images/img-3.jpeg';
+import img4 from '../images/img-4.jpeg';
+import img5 from '../images/img-5.jpeg';
+import img6 from '../images/img-6.jpeg';
+import img7 from '../images/img-7.jpeg';
+import img8 from '../images/img-8.jpeg';
+import img9 from '../images/img-9.jpeg';
+import video1 from '../videos/video-1.mp4';
+import video2 from '../videos/video-2.mp4';
+
+export const IMG1 = {img1};
+export const IMG2 = {img2};
+export const IMG3 = {img3};
+export const IMG4 = {img4};
+export const IMG5 = {img5};
+export const IMG6 = {img6};
+export const IMG7 = {img7};
+export const IMG8 = {img8};
+export const IMG9 = {img9};
+export const VIDEO1 = {video1};
+export const VIDEO2 = {video2};
